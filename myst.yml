@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 89b36f25-5b9e-4848-8ec9-c47df1b2f0b3
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jfgavin/minimal-myst-theme-test
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: https://github.com/jfgavin/myst-splitscreen-theme.git
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
